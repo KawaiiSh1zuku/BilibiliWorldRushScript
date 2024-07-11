@@ -11,7 +11,7 @@ project_id = "73710"
 ticket_id = 0
 screen_id = 0
 
-day = "7月22日"
+day = "7月14日"
 kind = "普通票"
 
 headers = {
